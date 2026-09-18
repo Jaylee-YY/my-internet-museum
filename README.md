@@ -2,6 +2,8 @@
 
 一个用于收藏、整理和再次发现互联网内容的个人信息管理工具。本仓库发布的是可交互的作品集 Demo，不包含站主的私人收藏。
 
+**在线体验：** [my-internet-museum.vercel.app](https://my-internet-museum.vercel.app/)
+
 ## 在线 Demo 的数据规则
 
 - 初次打开显示 5 条中性示例内容。
