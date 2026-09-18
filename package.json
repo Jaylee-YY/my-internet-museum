@@ -1,0 +1,13 @@
+{
+  "name": "my-internet-museum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal internet collection museum and interactive portfolio demo.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check app.js && node --check server.js && node --check api/metadata.js && node --check api/image.js && node --check lib/public-fetch.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
